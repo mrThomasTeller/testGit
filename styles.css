@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.film {
+  margin: 30px;
+}
+
+.poster_img {
+  width: 350px;
+  height: 500px;
+  border: 1px solid rgb(149, 141, 141);
+  border-radius: 3px;
+}
